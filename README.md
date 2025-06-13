@@ -23,10 +23,6 @@ Find out how to build a complete e-commerce platform. Author Melvin Kisten tackl
    - Postman
    - Axios
 
-## Live Demo
-
-- [react-complete-e-commerce]("")
-
 ### Home Page
 
 ![Home Page](screenshots/home.png 'Home Page')
