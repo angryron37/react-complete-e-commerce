@@ -256,4 +256,4 @@ Find out how to build a complete e-commerce platform. Author Melvin Kisten tackl
 
 ## More Stuff
 
-Check out some other stuff on [Melvin K](https://github.com/angryron37 "Rony GitHub page").
+Check out some other stuff on [Rony](https://github.com/angryron37 "Rony GitHub page").
